@@ -1,1 +1,2 @@
 "class B{}"
+"// new feature" 
